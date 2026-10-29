@@ -2,7 +2,7 @@
 
 Follow these steps to install IDB WebBridge and confirm that order chits print correctly.
 
-**Quick links:** [Product overview](README.md) · [Download v0.1.4](https://github.com/Alhaadi-IDB/IDB-Software-Center/releases/tag/webbridge-v0.1.4) · [Changelog](CHANGELOG.md)
+**Quick links:** [Product overview](README.md) · [Download v0.1.4](https://github.com/Alhaadi-IDB/IDB-Software-Center/releases/tag/idb-webbridge-v0.1.4) · [Changelog](CHANGELOG.md)
 
 ## Before you begin
 
@@ -12,7 +12,7 @@ Follow these steps to install IDB WebBridge and confirm that order chits print c
 
 ## Install and test
 
-1. Open the [IDB WebBridge release page](https://github.com/Alhaadi-IDB/IDB-Software-Center/releases/tag/webbridge-v0.1.4) and download the Windows installer.
+1. Open the [IDB WebBridge release page](https://github.com/Alhaadi-IDB/IDB-Software-Center/releases/tag/idb-webbridge-v0.1.4) and download the Windows installer.
 2. Run the installer and follow the on-screen instructions.
 3. Open IDB WebBridge and configure the local printing interface and printer settings.
 4. Select and configure an available PDF printing option.

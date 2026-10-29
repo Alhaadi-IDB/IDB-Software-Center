@@ -23,6 +23,6 @@ Changes to IDB WebBridge, organized by version. See the [product overview](READM
 - IDBScript PDF printing is a beta feature.
 - Web POS alert improvements require a separate Web POS update.
 
-Read the [v0.1.4 release notes](https://github.com/Alhaadi-IDB/IDB-Software-Center/releases/tag/webbridge-v0.1.4) for more information.
+Read the [v0.1.4 release notes](https://github.com/Alhaadi-IDB/IDB-Software-Center/releases/tag/idb-webbridge-v0.1.4) for more information.
 
 [← Back to IDB WebBridge](README.md)

@@ -13,7 +13,7 @@ Print IDB Web POS order chits from a Windows computer, review print history, and
 
 **Platform:** Windows · **Documented version:** v0.1.4
 
-[Product overview](products/idbpos-webbridge/README.md) · [Installation guide](products/idbpos-webbridge/INSTALLATION.md) · [Changelog](products/idbpos-webbridge/CHANGELOG.md) · [Download v0.1.4](https://github.com/Alhaadi-IDB/IDB-Software-Center/releases/tag/webbridge-v0.1.4)
+[Product overview](products/idbpos-webbridge/README.md) · [Installation guide](products/idbpos-webbridge/INSTALLATION.md) · [Changelog](products/idbpos-webbridge/CHANGELOG.md) · [Download v0.1.4](https://github.com/Alhaadi-IDB/IDB-Software-Center/releases/tag/idb-webbridge-v0.1.4)
 
 ### 🧭 IDBOne Panel
 
