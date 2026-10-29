@@ -1,77 +1,46 @@
 # 🖨️ IDB WebBridge
 
-**Windows Printing Interface & Order Chit Management**
+**Print IDB Web POS order chits from a Windows computer.**
 
-IDB WebBridge is a Windows application designed to connect IDB Web POS with local printing services, enabling order chit printing, PDF handling, and interface monitoring.
+IDB WebBridge connects the POS to local printers. It also helps you review print activity, save PDF copies when needed, and check the connection status.
 
----
+| Platform | Current documented version | Distribution |
+| --- | --- | --- |
+| Windows | v0.1.4 | Windows installer |
 
-## 📦 Product Information
+**Get started:** [Download v0.1.4](https://github.com/Alhaadi-IDB/IDB-Software-Center/releases/tag/webbridge-v0.1.4) · [Installation guide](INSTALLATION.md) · [Version history](CHANGELOG.md)
 
-- **Product:** IDB WebBridge
-- **Platform:** Windows
-- **Latest Version:** v0.1.4
-- **Category:** POS Integration & Printing
-- **Distribution:** Windows Installer
+## What you can do
 
-## ✨ Key Features
+### Print order chits
 
-### 🖨️ Printing Integration
-- Print order chits from IDB Web POS.
-- Support for Ghostscript and IDBScript PDF Printing (Beta).
-- Printer configuration and test printing.
-- Detailed printing status and error messages.
+- Choose and test a printer before using it for orders.
+- Print PDF order chits from IDB Web POS.
+- See clear status and error messages when printing needs attention.
 
-### 📋 Order Chit History
-- Track Submitted, Failed, and Unconfirmed print requests.
-- Search and filter by order, printer, date, and status.
-- Export printing history in JSONL format.
-- Clear history records with confirmation.
+### Review print history
 
-### 📄 PDF Management
-- Optionally save order chit PDF copies.
-- Preview saved PDFs in a separate viewer.
-- Navigate pages and adjust zoom.
+- Find submitted, failed, or unconfirmed print requests.
+- Search by order, printer, date, or status.
+- Export or clear history when needed. History recording is optional and starts turned off.
 
-### 🩺 Interface Monitoring
-- Interface health and connection monitoring.
-- Process and port checks.
-- Interface logs and improved recovery behavior.
+### Save and preview PDFs
 
----
+- Optionally save copies of order chit PDFs.
+- Preview saved PDFs and move between pages.
 
-## 📥 Download
+### Check the connection
 
-**Latest Version: v0.1.4**
+- Review the interface status and logs when printing is interrupted.
 
-[Download IDB WebBridge v0.1.4](../../releases/tag/webbridge-v0.1.4)
+## Before you install
 
-See the [Installation Guide](INSTALLATION.md) for setup instructions.
+You need a Windows computer, access to the required printers, and a connection to the relevant IDB Web POS and printing services. Follow the [installation guide](INSTALLATION.md) to set up and test printing.
 
----
+## Help and support
 
-## ⚙️ System Requirements
+For installation or printing help, contact your IDB system administrator or support team. See the [version history](CHANGELOG.md) for recent changes.
 
-- Windows operating system
-- Access to the required printers
-- Network access to the relevant IDB Web POS and printing services
-- PDF printing engine configured as required
-
-Refer to the installation guide for any additional requirements.
-
----
-
-## 📖 Documentation
-
-- [Installation Guide](INSTALLATION.md)
-- [Version History](CHANGELOG.md)
-
----
-
-## 🛠️ Support
-
-For installation assistance, printing issues, or software support, contact your IDB administrator or authorized support team.
-
----
+[← Back to Software Center](../../README.md)
 
 © IDB. All rights reserved.

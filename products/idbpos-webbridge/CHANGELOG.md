@@ -1,25 +1,28 @@
-# IDB WebBridge — Changelog
+# IDB WebBridge changelog
 
-All notable software updates and improvements are recorded here.
+Changes to IDB WebBridge, organized by version. See the [product overview](README.md) for features and the [installation guide](INSTALLATION.md) for setup.
 
-## v0.1.4 — Printing & Order Chit History
+## v0.1.4 — Printing and order chit history
 
-### Added
-- IDBScript PDF Printing (Beta).
-- Order Chit History with search and filters.
-- Optional PDF saving and preview.
-- Interface health monitoring and logs.
-- Detailed printing status responses.
+### New
+
+- Added IDBScript PDF printing as a beta option.
+- Added Order Chit History with search and filters.
+- Added optional PDF saving and preview.
+- Added interface status, logs, and clearer printing results.
 
 ### Improved
-- Printer test printing and diagnostics.
-- Interface connection and recovery behavior.
-- Cashier status indicators and error messages.
-- Windows interface packaging.
 
-### Notes
-- Order Chit History is disabled by default.
-- IDBScript PDF Printing remains in Beta.
-- Web POS alert enhancements require a separate Web POS deployment.
+- Improved test printing, printer diagnostics, and connection recovery.
+- Made status indicators and error messages clearer.
+- Improved the Windows installer experience.
 
-For full details, see the GitHub release notes.
+### Before you use it
+
+- Order Chit History starts turned off. Enable **Record Order Log** in Settings to use it.
+- IDBScript PDF printing is a beta feature.
+- Web POS alert improvements require a separate Web POS update.
+
+Read the [v0.1.4 release notes](https://github.com/Alhaadi-IDB/IDB-Software-Center/releases/tag/webbridge-v0.1.4) for more information.
+
+[← Back to IDB WebBridge](README.md)

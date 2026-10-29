@@ -1,74 +1,26 @@
-# 🏢 IDB Software Center
+# IDB Software Center
 
-**Official Software Downloads & Release Center**
+**Official product guides, downloads, and release notes.**
 
-Welcome to the IDB Software Center — the central hub for downloading IDB applications, accessing product documentation, and viewing the latest software updates.
+Find the right IDB product and the information you need to get started.
 
----
+## Products
 
-## 📦 Available Software
+| Product | What it helps you do | Start here |
+| --- | --- | --- |
+| 🖨️ **[IDB WebBridge](products/idbpos-webbridge/README.md)** | Print order chits from IDB Web POS on Windows and review print history. | [Download v0.1.4](https://github.com/Alhaadi-IDB/IDB-Software-Center/releases/tag/webbridge-v0.1.4) · [Installation guide](products/idbpos-webbridge/INSTALLATION.md) |
+| 🧭 **[IDBOne Panel](products/idbone-panel/README.md)** | Manage day-to-day work such as leave, events, certificates, and support requests. | [User guide](products/idbone-panel/README.md) · [Changelog](products/idbone-panel/CHANGELOG.md) |
 
-### 🖨️ IDB WebBridge
+## Releases and updates
 
-**Windows Printing Interface & Order Chit Management**
+WebBridge installers and release notes are available on the [GitHub Releases page](https://github.com/Alhaadi-IDB/IDB-Software-Center/releases). Review its [version history](products/idbpos-webbridge/CHANGELOG.md) before upgrading.
 
-IDB WebBridge provides local printing integration for IDB Web POS, including PDF printing, order chit history, and interface monitoring.
+IDBOne Panel is accessed through the link provided by your organization. See its [changelog](products/idbone-panel/CHANGELOG.md) for product updates.
 
-**Platform:** Windows  
-**Latest Version:** v0.1.4
+## Help and support
 
-**Features:**
-- PDF Printing & Printer Configuration
-- Order Chit History
-- PDF Saving & Preview
-- Interface Monitoring & Logs
+For access, installation, or product help, contact your IDB system administrator or support team.
 
-📖 [Product Details](products/idb-webbridge/README.md)  
-⚙️ [Installation Guide](products/idb-webbridge/INSTALLATION.md)  
-📋 [Version History](products/idb-webbridge/CHANGELOG.md)
-
---- 
-
-**[📥 Download v0.1.4](../../releases/tag/webbridge-v0.1.4)**
-
----
-
-## 🚀 Software Releases
-
-All official software installers and updates are available through GitHub Releases.
-
-**[View All Releases](../../releases)**
-
-Each release may include:
-- Windows installers
-- Version information and changelogs
-- Installation instructions
-- Bug fixes and improvements
-
----
-
-## 📖 Installation
-
-1. Select the software you want to download.
-2. Open the corresponding release page.
-3. Download the latest installer.
-4. Follow the product's installation instructions.
-5. Review release notes before upgrading.
-
----
-
-## 🛡️ Software Distribution
-
-- This repository contains official IDB software distribution files and documentation.
-- Product source code is maintained in separate private repositories.
-- Download software only from official IDB distribution links.
-
----
-
-## 🛠️ Support
-
-For technical support, installation assistance, or bug reports, please contact your IDB system administrator or support team.
-
----
+This repository contains product documentation and official distribution information. Product source code is maintained separately.
 
 © IDB. All rights reserved.

@@ -1,52 +1,41 @@
-# ⚙️ IDB WebBridge — Installation Guide
+# IDB WebBridge installation guide
 
-## Before Installation
+Follow these steps to install IDB WebBridge and confirm that order chits print correctly.
 
-Ensure you have:
+**Quick links:** [Product overview](README.md) · [Download v0.1.4](https://github.com/Alhaadi-IDB/IDB-Software-Center/releases/tag/webbridge-v0.1.4) · [Version history](CHANGELOG.md)
 
-- A supported Windows computer.
-- Access to your POS printing environment.
-- Required printers installed and configured.
-- Network access to the relevant IDB services.
+## Before you begin
 
-## Installation Steps
+- Use a Windows computer with access to your IDB Web POS environment.
+- Make sure the required printers are installed and connected.
+- Make sure the computer can reach the relevant IDB services.
 
-1. Open the official IDB WebBridge release page.
-2. Download the latest Windows installer.
-3. Run the installer and follow the setup instructions.
-4. Launch IDB WebBridge.
-5. Configure the local printing interface and printer settings.
-6. Select and configure the available PDF printing engine.
-7. Run a test print to verify the configuration.
+## Install and test
 
-## Optional Features
+1. Open the [IDB WebBridge release page](https://github.com/Alhaadi-IDB/IDB-Software-Center/releases/tag/webbridge-v0.1.4) and download the Windows installer.
+2. Run the installer and follow the on-screen instructions.
+3. Open IDB WebBridge and configure the local printing interface and printer settings.
+4. Select and configure an available PDF printing option.
+5. Run a test print to confirm that the correct printer responds.
 
-### Order Chit History
+## Optional settings
 
-Open **Settings** and enable **Record Order Log** to track order chit printing activity.
+| Setting | What it does |
+| --- | --- |
+| **Record Order Log** | Saves order chit print activity in History. This setting starts turned off. |
+| **Download & Save Order Chit** | Saves local PDF copies so you can open them from History. |
 
-### Save Order Chit PDFs
+You can find both options in **Settings**.
 
-Enable **Download & Save Order Chit** to save local PDF copies for viewing from History.
+## If something goes wrong
 
-## Troubleshooting
+| Issue | What to check |
+| --- | --- |
+| Printer does not respond | Check that it is installed, connected, and selected in IDB WebBridge. |
+| Connection error | Check the interface status, service connection, and logs. |
+| Order chit does not print | Review the error message and check whether the order chit PDF can be opened. |
+| Print result is unclear | Check the physical printer and Order Chit History before trying again, to avoid a duplicate print. |
 
-**Printer not responding**
+For further help, contact your IDB system administrator or support team.
 
-Verify that the printer is installed, connected, and configured correctly.
-
-**Interface connection error**
-
-Check the local interface status, service connection, and interface logs.
-
-**Order chit failed to print**
-
-Review the error message and confirm that the remote PDF is accessible.
-
-**Unknown printing result**
-
-Check the physical printer and Order Chit History before retrying to avoid duplicate printing.
-
----
-
-For further assistance, contact IDB technical support.
+[← Back to IDB WebBridge](README.md)
