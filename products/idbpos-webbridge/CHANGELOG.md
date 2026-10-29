@@ -1,10 +1,10 @@
-# IDB WebBridge changelog
+# IDB WebBridge: changelog
 
 Changes to IDB WebBridge, organized by version. See the [product overview](README.md) for features and the [installation guide](INSTALLATION.md) for setup.
 
-## v0.1.4 — Printing and order chit history
+## Version 0.1.4 — Printing and order chit history
 
-### New
+### Added
 
 - Added IDBScript PDF printing as a beta option.
 - Added Order Chit History with search and filters.

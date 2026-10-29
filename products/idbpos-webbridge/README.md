@@ -4,11 +4,11 @@
 
 IDB WebBridge connects the POS to local printers. It also helps you review print activity, save PDF copies when needed, and check the connection status.
 
-| Platform | Current documented version | Distribution |
+| Platform | Documented version | Distribution |
 | --- | --- | --- |
 | Windows | v0.1.4 | Windows installer |
 
-**Get started:** [Download v0.1.4](https://github.com/Alhaadi-IDB/IDB-Software-Center/releases/tag/webbridge-v0.1.4) · [Installation guide](INSTALLATION.md) · [Version history](CHANGELOG.md)
+**Get started:** [Download v0.1.4](https://github.com/Alhaadi-IDB/IDB-Software-Center/releases/tag/webbridge-v0.1.4) · [Installation guide](INSTALLATION.md) · [Changelog](CHANGELOG.md)
 
 ## What you can do
 
@@ -39,7 +39,7 @@ You need a Windows computer, access to the required printers, and a connection t
 
 ## Help and support
 
-For installation or printing help, contact your IDB system administrator or support team. See the [version history](CHANGELOG.md) for recent changes.
+For installation or printing help, contact your IDB system administrator or support team. See the [changelog](CHANGELOG.md) for recent changes.
 
 [← Back to Software Center](../../README.md)
 

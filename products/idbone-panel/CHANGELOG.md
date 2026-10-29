@@ -1,4 +1,4 @@
-# IDBOne Panel changelog
+# IDBOne Panel: changelog
 
 All notable user-facing changes to IDBOne Panel are documented here. Select a version or year to expand its notes.
 

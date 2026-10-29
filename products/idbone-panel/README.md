@@ -4,6 +4,8 @@
 
 IDBOne Panel brings leave, events, certificates, records, messages, and reports into one place. The sections you see depend on your assigned access.
 
+**Documented version:** 1.2.3 · [Changelog](CHANGELOG.md)
+
 | I want to… | Go to… |
 | --- | --- |
 | Submit or review leave | [Leave requests](#leave-requests) |

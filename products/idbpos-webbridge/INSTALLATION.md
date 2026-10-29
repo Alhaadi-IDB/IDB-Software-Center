@@ -1,8 +1,8 @@
-# IDB WebBridge installation guide
+# IDB WebBridge: installation guide
 
 Follow these steps to install IDB WebBridge and confirm that order chits print correctly.
 
-**Quick links:** [Product overview](README.md) · [Download v0.1.4](https://github.com/Alhaadi-IDB/IDB-Software-Center/releases/tag/webbridge-v0.1.4) · [Version history](CHANGELOG.md)
+**Quick links:** [Product overview](README.md) · [Download v0.1.4](https://github.com/Alhaadi-IDB/IDB-Software-Center/releases/tag/webbridge-v0.1.4) · [Changelog](CHANGELOG.md)
 
 ## Before you begin
 
