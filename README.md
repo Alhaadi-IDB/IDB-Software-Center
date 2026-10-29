@@ -12,16 +12,22 @@ Welcome to the IDB Software Center — the central hub for downloading IDB appli
 
 **Windows Printing Interface & Order Chit Management**
 
-IDB WebBridge provides printing integration for IDB Web POS, including printer connectivity, PDF printing, order chit history, and interface monitoring.
+IDB WebBridge provides local printing integration for IDB Web POS, including PDF printing, order chit history, and interface monitoring.
 
 **Platform:** Windows  
-**Version:** `v0.1.4`
+**Latest Version:** v0.1.4
 
-**Key Features**
-- PDF printing with Ghostscript and IDBScript (Beta)
-- Order Chit History and PDF preview
-- Interface monitoring and logs
-- Printing diagnostics and status reporting
+**Features:**
+- PDF Printing & Printer Configuration
+- Order Chit History
+- PDF Saving & Preview
+- Interface Monitoring & Logs
+
+📖 [Product Details](products/idb-webbridge/README.md)  
+⚙️ [Installation Guide](products/idb-webbridge/INSTALLATION.md)  
+📋 [Version History](products/idb-webbridge/CHANGELOG.md)
+
+--- 
 
 **[📥 Download v0.1.4](../../releases/tag/webbridge-v0.1.4)**
 
