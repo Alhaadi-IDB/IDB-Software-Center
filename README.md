@@ -4,6 +4,8 @@
 
 Find the right IDB product and the information you need to get started.
 
+> **Important — share carefully:** Share this page and its download links only with people you trust and who are authorized to receive the software. If you prefer not to share the link, download the installer from the official release page and send the file directly to the intended recipient.
+
 ## Products
 
 | Product | What it helps you do | Start here |
